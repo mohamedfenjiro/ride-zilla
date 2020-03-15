@@ -1,0 +1,4 @@
+#Fri Mar 13 15:54:53 EDT 2020
+base.0=/home/meseeks19/Downloads/MEC-Drive/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
